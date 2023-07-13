@@ -1,0 +1,25 @@
+body {
+    background: #30d5c8;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+    margin-top: 50px;
+    color: black;
+}
+
+.clock {
+    margin: 70px auto;
+    font-size: 4em;
+    text-align: center;
+    color: black;
+    font-family: cursive;
+}
+
+.clock span {
+    padding: 30px;
+    border-radius: 30px;
+    background: #ff7f50;
+}
